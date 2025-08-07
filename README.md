@@ -9,9 +9,14 @@
 
 [**3D-Layers: Bringing Layer-Based Color Editing to VR Painting.**](https://www-sop.inria.fr/reves/Basilic/2024/YCSB24/3DLayers-%20Bringing%20Layer-Based%20Color%20Editing%20to%20VR%20Painting.pdf) _Yu et al._ TOG 2024.
 
+[**VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality.**](https://dl.acm.org/doi/10.1145/3641519.3657448) _Jiang et al._ SIGGRAPH 2024.
+
+[**Dragon's Path: Synthesizing User-Centered Flying Creature Animation Paths for Outdoor Augmented Reality Experiences.**](https://dl.acm.org/doi/10.1145/3641519.3657397) _Kim et al._ SIGGRAPH 2024.
+
 [**ShapeSonic: Sonifying Fingertip Interactions for Non-Visual Virtual Shape Perception.**](https://cragl.cs.gmu.edu/shapesonic/) _Huang et al._ SIGGRAPH ASIA 2023.
 
 [**Modeling Endpoint Distribution of Pointing Selection Tasks in Virtual Reality Environments.**](https://www.difeng.me/papers/19_Modeling.pdf) _Yu et al._ TOG 2019.
+
 
 
 
