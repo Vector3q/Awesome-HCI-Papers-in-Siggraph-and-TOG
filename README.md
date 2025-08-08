@@ -34,6 +34,8 @@
 
 [**Mid-Air Drawing of Curves on 3D Surfaces in Virtual Reality**](https://dl.acm.org/doi/pdf/10.1145/3459090) _Arora et al._ TOG 2021.
 
+[**Synthesizing Scene-aware Virtual Reality Teleport Graphs**](https://dl.acm.org/doi/pdf/10.1145/3478513.3480478) _Li et al._ TOG 2021.
+
 [**Modeling Endpoint Distribution of Pointing Selection Tasks in Virtual Reality Environments.**](https://www.difeng.me/papers/19_Modeling.pdf) _Yu et al._ TOG 2019.
 
 [**Autocomplete 3D Sculpting**](https://dl.acm.org/doi/10.1145/3197517.3201297) _Peng et al._ TOG 2018.
@@ -43,6 +45,7 @@
 [**Palette-based Photo Recoloring**](https://dl.acm.org/doi/pdf/10.1145/2766978) _Chang et al._ TOG 2015.
 
 [**Nonlinear Revision Control for Images**](https://dl.acm.org/doi/pdf/10.1145/2010324.1965000) _Chen et al._ TOG 2011.
+
 
 
 
