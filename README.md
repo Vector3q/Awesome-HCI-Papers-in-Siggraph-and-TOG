@@ -27,7 +27,8 @@
 
 [**Autocomplete 3D Sculpting**](https://dl.acm.org/doi/10.1145/3197517.3201297) _Peng et al._ TOG 2018.
 
-[**Playful Palee: An Interactive Parametric Color Mixer for Artists**](https://dl.acm.org/doi/10.1145/3072959.3073690) _Shugrina et al._ TOG 2017.
+[**Playful Palette: An Interactive Parametric Color Mixer for Artists**](https://dl.acm.org/doi/10.1145/3072959.3073690) _Shugrina et al._ TOG 2017.
+
 
 
 
