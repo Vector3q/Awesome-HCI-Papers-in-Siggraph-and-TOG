@@ -46,11 +46,14 @@
 
 [**Playful Palette: An Interactive Parametric Color Mixer for Artists.**](https://dl.acm.org/doi/10.1145/3072959.3073690) _Shugrina et al._ TOG 2017.
 
+[**Data-Driven Color Manifolds.**](https://dl.acm.org/doi/pdf/10.1145/2699645) _Nguyen et al._ TOG 2015.
+
 [**Palette-based Photo Recoloring.**](https://dl.acm.org/doi/pdf/10.1145/2766978) _Chang et al._ TOG 2015.
 
 [**Lazy Selection: A Scribble-based Tool for Smart Shape Elements Selection.**](https://dl.acm.org/doi/pdf/10.1145/2366145.2366161) _Xu et al._ TOG 2012.
 
 [**Nonlinear Revision Control for Images.**](https://dl.acm.org/doi/pdf/10.1145/2010324.1965000) _Chen et al._ TOG 2011.
+
 
 
 
