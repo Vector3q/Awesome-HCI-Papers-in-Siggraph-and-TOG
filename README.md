@@ -1,6 +1,6 @@
 
 
-[**VR-Doh: Hands-on 3D Modeling in Virtual Reality**](https://dl.acm.org/doi/10.1145/3731154) _Luo et al._ TOG 2025.
+[**VR-Doh: Hands-on 3D Modeling in Virtual Reality.**](https://dl.acm.org/doi/10.1145/3731154) _Luo et al._ TOG 2025.
 
 [**A Platform for Interactive AI Character Experiences.**](https://dl.acm.org/doi/10.1145/3721238.3730762) _Wampfler et al._ SIGGRAPH 2025.
 
@@ -18,33 +18,34 @@
 
 [**Dragon's Path: Synthesizing User-Centered Flying Creature Animation Paths for Outdoor Augmented Reality Experiences.**](https://dl.acm.org/doi/10.1145/3641519.3657397) _Kim et al._ SIGGRAPH 2024.
 
-[**VideoDoodles: Hand-Drawn Animations on Videos with Scene-Aware Canvases**](https://dl.acm.org/doi/10.1145/3592413) _Yu et al._ TOG 2023.
+[**VideoDoodles: Hand-Drawn Animations on Videos with Scene-Aware Canvases.**](https://dl.acm.org/doi/10.1145/3592413) _Yu et al._ TOG 2023.
 
-[**Juxtaform: Interactive Visual Summarization for Exploratory Shape Design**](https://dl.acm.org/doi/10.1145/3592436) _Pandey et al._ TOG 2023.
+[**Juxtaform: Interactive Visual Summarization for Exploratory Shape Design.**](https://dl.acm.org/doi/10.1145/3592436) _Pandey et al._ TOG 2023.
 
 [**How Important are Detailed Hand Motions for Communication for a Virtual Character Through the Lens of Charades?**](https://dl.acm.org/doi/pdf/10.1145/3578575) _Adkins et al._ TOG 2023.
 
 [**ShapeSonic: Sonifying Fingertip Interactions for Non-Visual Virtual Shape Perception.**](https://cragl.cs.gmu.edu/shapesonic/) _Huang et al._ SIGGRAPH ASIA 2023.
 
-[**Interactive Augmented Reality Storytelling Guided by Scene Semantics**](https://dl.acm.org/doi/pdf/10.1145/3528223.3530061) _Li et al._ TOG 2022.
+[**Interactive Augmented Reality Storytelling Guided by Scene Semantics.**](https://dl.acm.org/doi/pdf/10.1145/3528223.3530061) _Li et al._ TOG 2022.
 
 [**Force-Aware Interface via Electromyography for Natural VR/AR Interaction.**](https://dl.acm.org/doi/10.1145/3550454.3555461) _Zhang et al._ TOG 2022.
 
-[**AdaptiBrush: adaptive general and predictable VR ribbon brush**](https://dl.acm.org/doi/10.1145/3478513.3480511) _Rosales et al._ TOG 2022.
+[**AdaptiBrush: adaptive general and predictable VR ribbon brush.**](https://dl.acm.org/doi/10.1145/3478513.3480511) _Rosales et al._ TOG 2022.
 
-[**Mid-Air Drawing of Curves on 3D Surfaces in Virtual Reality**](https://dl.acm.org/doi/pdf/10.1145/3459090) _Arora et al._ TOG 2021.
+[**Mid-Air Drawing of Curves on 3D Surfaces in Virtual Reality.**](https://dl.acm.org/doi/pdf/10.1145/3459090) _Arora et al._ TOG 2021.
 
-[**Synthesizing Scene-aware Virtual Reality Teleport Graphs**](https://dl.acm.org/doi/pdf/10.1145/3478513.3480478) _Li et al._ TOG 2021.
+[**Synthesizing Scene-aware Virtual Reality Teleport Graphs.**](https://dl.acm.org/doi/pdf/10.1145/3478513.3480478) _Li et al._ TOG 2021.
 
 [**Modeling Endpoint Distribution of Pointing Selection Tasks in Virtual Reality Environments.**](https://www.difeng.me/papers/19_Modeling.pdf) _Yu et al._ TOG 2019.
 
-[**Autocomplete 3D Sculpting**](https://dl.acm.org/doi/10.1145/3197517.3201297) _Peng et al._ TOG 2018.
+[**Autocomplete 3D Sculpting.**](https://dl.acm.org/doi/10.1145/3197517.3201297) _Peng et al._ TOG 2018.
 
-[**Playful Palette: An Interactive Parametric Color Mixer for Artists**](https://dl.acm.org/doi/10.1145/3072959.3073690) _Shugrina et al._ TOG 2017.
+[**Playful Palette: An Interactive Parametric Color Mixer for Artists.**](https://dl.acm.org/doi/10.1145/3072959.3073690) _Shugrina et al._ TOG 2017.
 
-[**Palette-based Photo Recoloring**](https://dl.acm.org/doi/pdf/10.1145/2766978) _Chang et al._ TOG 2015.
+[**Palette-based Photo Recoloring.**](https://dl.acm.org/doi/pdf/10.1145/2766978) _Chang et al._ TOG 2015.
 
-[**Nonlinear Revision Control for Images**](https://dl.acm.org/doi/pdf/10.1145/2010324.1965000) _Chen et al._ TOG 2011.
+[**Nonlinear Revision Control for Images.**](https://dl.acm.org/doi/pdf/10.1145/2010324.1965000) _Chen et al._ TOG 2011.
+
 
 
 
