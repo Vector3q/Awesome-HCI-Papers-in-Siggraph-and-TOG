@@ -52,11 +52,14 @@
 
 [**Palette-based Photo Recoloring.**](https://dl.acm.org/doi/pdf/10.1145/2766978) _Chang et al._ TOG 2015.
 
+[**SecondSkin: Sketch-based Construction of Layered 3D Models.**](https://dl.acm.org/doi/pdf/10.1145/2766948) _Paoli et al._ TOG 2015.
+
 [**Lazy Selection: A Scribble-based Tool for Smart Shape Elements Selection.**](https://dl.acm.org/doi/pdf/10.1145/2366145.2366161) _Xu et al._ TOG 2012.
 
 [**Nonlinear Revision Control for Images.**](https://dl.acm.org/doi/pdf/10.1145/2010324.1965000) _Chen et al._ TOG 2011.
 
 [**Real-Time Gradient-Domain Painting**](https://dl.acm.org/doi/pdf/10.1145/1360612.1360692) _McCann et al._ TOG 2008.
+
 
 
 
