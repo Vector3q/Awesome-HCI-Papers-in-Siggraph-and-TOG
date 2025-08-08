@@ -1,4 +1,7 @@
 
+
+[**VR-Doh: Hands-on 3D Modeling in Virtual Reality**](https://dl.acm.org/doi/10.1145/3731154) _Luo et al._ TOG 2025.
+
 [**A Platform for Interactive AI Character Experiences.**](https://dl.acm.org/doi/10.1145/3721238.3730762) _Wampfler et al._ SIGGRAPH 2025.
 
 [**ForceGrip: Reference-Free Curriculum Learning for Realistic Grip Force Control in VR Hand Manipulation.**](https://dl.acm.org/doi/pdf/10.1145/3721238.3730738) _Han et al._ SIGGRAPH 2025.
@@ -23,11 +26,14 @@
 
 [**Force-Aware Interface via Electromyography for Natural VR/AR Interaction.**](https://dl.acm.org/doi/10.1145/3550454.3555461) _Zhang et al._ TOG 2022.
 
+[**AdaptiBrush: adaptive general and predictable VR ribbon brush**](https://dl.acm.org/doi/10.1145/3478513.3480511) _Rosales et al._ TOG 2022.
+
 [**Modeling Endpoint Distribution of Pointing Selection Tasks in Virtual Reality Environments.**](https://www.difeng.me/papers/19_Modeling.pdf) _Yu et al._ TOG 2019.
 
 [**Autocomplete 3D Sculpting**](https://dl.acm.org/doi/10.1145/3197517.3201297) _Peng et al._ TOG 2018.
 
 [**Playful Palette: An Interactive Parametric Color Mixer for Artists**](https://dl.acm.org/doi/10.1145/3072959.3073690) _Shugrina et al._ TOG 2017.
+
 
 
 
