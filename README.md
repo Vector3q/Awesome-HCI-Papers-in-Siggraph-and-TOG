@@ -1,4 +1,4 @@
-
+[**DesignManager: An Agent-Powered Copilot for Designers to Integrate AI Design Tools into Creative Workflows**](https://dl.acm.org/doi/pdf/10.1145/3730919) _You et al._ TOG 2025.
 
 [**VR-Doh: Hands-on 3D Modeling in Virtual Reality.**](https://dl.acm.org/doi/10.1145/3731154) _Luo et al._ TOG 2025.
 
@@ -55,6 +55,7 @@
 [**Nonlinear Revision Control for Images.**](https://dl.acm.org/doi/pdf/10.1145/2010324.1965000) _Chen et al._ TOG 2011.
 
 [**Real-Time Gradient-Domain Painting**](https://dl.acm.org/doi/pdf/10.1145/1360612.1360692) _McCann et al._ TOG 2008.
+
 
 
 
