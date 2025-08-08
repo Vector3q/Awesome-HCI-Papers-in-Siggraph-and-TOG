@@ -4,6 +4,8 @@
 
 [**A Platform for Interactive AI Character Experiences.**](https://dl.acm.org/doi/10.1145/3721238.3730762) _Wampfler et al._ SIGGRAPH 2025.
 
+[**Painting with 3D Gaussian Splat Brushes.**](Painting with 3D Gaussian Splat Brushes) _Pandey et al._ SIGGRAPH 2025.
+
 [**ForceGrip: Reference-Free Curriculum Learning for Realistic Grip Force Control in VR Hand Manipulation.**](https://dl.acm.org/doi/pdf/10.1145/3721238.3730738) _Han et al._ SIGGRAPH 2025.
 
 [**HOIGaze: Gaze Estimation During Hand-Object Interactions in Extended Reality Exploiting Eye-Hand-Head Coordination.**](https://dl.acm.org/doi/pdf/10.1145/3721238.3730692) _Hu et al._ SIGGRAPH 2025.
@@ -45,6 +47,7 @@
 [**Palette-based Photo Recoloring.**](https://dl.acm.org/doi/pdf/10.1145/2766978) _Chang et al._ TOG 2015.
 
 [**Nonlinear Revision Control for Images.**](https://dl.acm.org/doi/pdf/10.1145/2010324.1965000) _Chen et al._ TOG 2011.
+
 
 
 
