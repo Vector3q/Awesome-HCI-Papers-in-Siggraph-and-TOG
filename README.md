@@ -48,6 +48,8 @@
 
 [**Playful Palette: An Interactive Parametric Color Mixer for Artists.**](https://dl.acm.org/doi/10.1145/3072959.3073690) _Shugrina et al._ TOG 2017.
 
+[**Decomposing Images into Layers via RGB-Space Geometry**](https://dl.acm.org/doi/pdf/10.1145/3072959.2988229) _Tan et al._ TOG 2016.
+
 [**Data-Driven Color Manifolds.**](https://dl.acm.org/doi/pdf/10.1145/2699645) _Nguyen et al._ TOG 2015.
 
 [**Palette-based Photo Recoloring.**](https://dl.acm.org/doi/pdf/10.1145/2766978) _Chang et al._ TOG 2015.
@@ -59,6 +61,7 @@
 [**Nonlinear Revision Control for Images.**](https://dl.acm.org/doi/pdf/10.1145/2010324.1965000) _Chen et al._ TOG 2011.
 
 [**Real-Time Gradient-Domain Painting**](https://dl.acm.org/doi/pdf/10.1145/1360612.1360692) _McCann et al._ TOG 2008.
+
 
 
 
