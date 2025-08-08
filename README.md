@@ -48,7 +48,10 @@
 
 [**Palette-based Photo Recoloring.**](https://dl.acm.org/doi/pdf/10.1145/2766978) _Chang et al._ TOG 2015.
 
+[**Lazy Selection: A Scribble-based Tool for Smart Shape Elements Selection.**](https://dl.acm.org/doi/pdf/10.1145/2366145.2366161) _Xu et al._ TOG 2012.
+
 [**Nonlinear Revision Control for Images.**](https://dl.acm.org/doi/pdf/10.1145/2010324.1965000) _Chen et al._ TOG 2011.
+
 
 
 
