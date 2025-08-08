@@ -15,9 +15,20 @@
 
 [**Dragon's Path: Synthesizing User-Centered Flying Creature Animation Paths for Outdoor Augmented Reality Experiences.**](https://dl.acm.org/doi/10.1145/3641519.3657397) _Kim et al._ SIGGRAPH 2024.
 
+[**VideoDoodles: Hand-Drawn Animations on Videos with Scene-Aware Canvases**](https://dl.acm.org/doi/10.1145/3592413) _Yu et al._ TOG 2023.
+
+[**Juxtaform: Interactive Visual Summarization for Exploratory Shape Design**](https://dl.acm.org/doi/10.1145/3592436) _Pandey et al._ TOG 2023.
+
 [**ShapeSonic: Sonifying Fingertip Interactions for Non-Visual Virtual Shape Perception.**](https://cragl.cs.gmu.edu/shapesonic/) _Huang et al._ SIGGRAPH ASIA 2023.
 
+[**Force-Aware Interface via Electromyography for Natural VR/AR Interaction.**](https://dl.acm.org/doi/10.1145/3550454.3555461) _Zhang et al._ TOG 2022.
+
 [**Modeling Endpoint Distribution of Pointing Selection Tasks in Virtual Reality Environments.**](https://www.difeng.me/papers/19_Modeling.pdf) _Yu et al._ TOG 2019.
+
+[**Autocomplete 3D Sculpting**](https://dl.acm.org/doi/10.1145/3197517.3201297) _Peng et al._ TOG 2018.
+
+[**Playful Palee: An Interactive Parametric Color Mixer for Artists**](https://dl.acm.org/doi/10.1145/3072959.3073690) _Shugrina et al._ TOG 2017.
+
 
 
 
