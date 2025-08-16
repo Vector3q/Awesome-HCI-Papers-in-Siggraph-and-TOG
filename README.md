@@ -30,6 +30,8 @@
 
 [**ShapeSonic: Sonifying Fingertip Interactions for Non-Visual Virtual Shape Perception.**](https://cragl.cs.gmu.edu/shapesonic/) _Huang et al._ SIGGRAPH ASIA 2023.
 
+[**TaleCrafter: Interactive Story Visualization with Multiple Characters.**](https://arxiv.org/pdf/2305.18247) _Gong et al._ SIGGRAPH ASIA 2023.
+
 [**Hierarchical Layout Blending with Recursive Optimal Correspondence.**](https://dl.acm.org/doi/pdf/10.1145/3550454.3555446) _Xu et al._ TOG 2022.
 
 [**Interactive Augmented Reality Storytelling Guided by Scene Semantics.**](https://dl.acm.org/doi/pdf/10.1145/3528223.3530061) _Li et al._ TOG 2022.
@@ -63,6 +65,7 @@
 [**Nonlinear Revision Control for Images.**](https://dl.acm.org/doi/pdf/10.1145/2010324.1965000) _Chen et al._ TOG 2011.
 
 [**Real-Time Gradient-Domain Painting.**](https://dl.acm.org/doi/pdf/10.1145/1360612.1360692) _McCann et al._ TOG 2008.
+
 
 
 
