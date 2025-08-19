@@ -1,4 +1,4 @@
-[**DesignManager: An Agent-Powered Copilot for Designers to Integrate AI Design Tools into Creative Workflows.**](https://dl.acm.org/doi/pdf/10.1145/3730919) _You et al._ TOG 2025.
+<img width="924" height="426" alt="7dc63f5348f9e0e39f7fa5268abc67db" src="https://github.com/user-attachments/assets/4ddb4b8c-803f-436a-bf30-4c4245f4c381" />[**DesignManager: An Agent-Powered Copilot for Designers to Integrate AI Design Tools into Creative Workflows.**](https://dl.acm.org/doi/pdf/10.1145/3730919) _You et al._ TOG 2025.
 
 [**VR-Doh: Hands-on 3D Modeling in Virtual Reality.**](https://dl.acm.org/doi/10.1145/3731154) _Luo et al._ TOG 2025.
 
@@ -46,6 +46,8 @@
 
 [**Synthesizing Scene-aware Virtual Reality Teleport Graphs.**](https://dl.acm.org/doi/pdf/10.1145/3478513.3480478) _Li et al._ TOG 2021.
 
+[**Nonlinear Color Triads for Approximation, Learning and Direct Manipulation of Color Distributions**](https://drive.google.com/file/d/1UmybUdZ1_Pd2m9Y3lh9MTCJ7T1gw2yJf/view)  _Shugrina et al._ TOG 2020.
+
 [**Redirected Smooth Mappings for Multiuser Real Walking.**](https://dl.acm.org/doi/pdf/10.1145/3345554)  _Dong et al._ TOG 2019.
 
 [**Modeling Endpoint Distribution of Pointing Selection Tasks in Virtual Reality Environments.**](https://www.difeng.me/papers/19_Modeling.pdf) _Yu et al._ TOG 2019.
@@ -67,6 +69,7 @@
 [**Nonlinear Revision Control for Images.**](https://dl.acm.org/doi/pdf/10.1145/2010324.1965000) _Chen et al._ TOG 2011.
 
 [**Real-Time Gradient-Domain Painting.**](https://dl.acm.org/doi/pdf/10.1145/1360612.1360692) _McCann et al._ TOG 2008.
+
 
 
 
