@@ -24,6 +24,8 @@
 
 [**VideoDoodles: Hand-Drawn Animations on Videos with Scene-Aware Canvases.**](https://dl.acm.org/doi/10.1145/3592413) _Yu et al._ TOG 2023.
 
+[**Commonsense Knowledge-Driven Joint Reasoning Approach for Object Retrieval in Virtual Reality.**] _Jiang et al._ TOG 2023.
+
 [**Juxtaform: Interactive Visual Summarization for Exploratory Shape Design.**](https://dl.acm.org/doi/10.1145/3592436) _Pandey et al._ TOG 2023.
 
 [**How Important are Detailed Hand Motions for Communication for a Virtual Character Through the Lens of Charades?**](https://dl.acm.org/doi/pdf/10.1145/3578575) _Adkins et al._ TOG 2023.
@@ -65,6 +67,7 @@
 [**Nonlinear Revision Control for Images.**](https://dl.acm.org/doi/pdf/10.1145/2010324.1965000) _Chen et al._ TOG 2011.
 
 [**Real-Time Gradient-Domain Painting.**](https://dl.acm.org/doi/pdf/10.1145/1360612.1360692) _McCann et al._ TOG 2008.
+
 
 
 
