@@ -16,6 +16,8 @@
 
 [**NICER: A New and Improved Consumed Endurance and Recovery Metric to Quantify Muscle Fatigue of Mid-Air Interactions.**](https://dl.acm.org/doi/10.1145/3658230) _Li et al._ TOG 2024.
 
+[**Evaluating Visual Perception of Object Motion in Dynamic Environments.**] _ Duinkharjav et al._ TOG 2024.
+
 [**VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality.**](https://dl.acm.org/doi/10.1145/3641519.3657448) _Jiang et al._ SIGGRAPH 2024.
 
 [**Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation.**](https://dl.acm.org/doi/10.1145/3680528.3687688) _Li et al._ SIGGRAPH ASIA 2024.
@@ -69,6 +71,7 @@
 [**Nonlinear Revision Control for Images.**](https://dl.acm.org/doi/pdf/10.1145/2010324.1965000) _Chen et al._ TOG 2011.
 
 [**Real-Time Gradient-Domain Painting.**](https://dl.acm.org/doi/pdf/10.1145/1360612.1360692) _McCann et al._ TOG 2008.
+
 
 
 
