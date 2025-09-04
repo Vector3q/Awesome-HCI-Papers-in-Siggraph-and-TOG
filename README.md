@@ -54,6 +54,8 @@
 
 [**Modeling Endpoint Distribution of Pointing Selection Tasks in Virtual Reality Environments.**](https://www.difeng.me/papers/19_Modeling.pdf) _Yu et al._ TOG 2019.
 
+[**Reducing Simulator Sickness with Perceptual Camera Control.**](https://dl.acm.org/doi/10.1145/3355089.3356490) _Hu et al._ SIGGRAPH ASIA 2019.
+
 [**Autocomplete 3D Sculpting.**](https://dl.acm.org/doi/10.1145/3197517.3201297) _Peng et al._ TOG 2018.
 
 [**Playful Palette: An Interactive Parametric Color Mixer for Artists.**](https://dl.acm.org/doi/10.1145/3072959.3073690) _Shugrina et al._ TOG 2017.
@@ -71,6 +73,7 @@
 [**Nonlinear Revision Control for Images.**](https://dl.acm.org/doi/pdf/10.1145/2010324.1965000) _Chen et al._ TOG 2011.
 
 [**Real-Time Gradient-Domain Painting.**](https://dl.acm.org/doi/pdf/10.1145/1360612.1360692) _McCann et al._ TOG 2008.
+
 
 
 
