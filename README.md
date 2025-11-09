@@ -76,8 +76,9 @@
 
 [**Real-Time Gradient-Domain Painting.**](https://dl.acm.org/doi/pdf/10.1145/1360612.1360692) _McCann et al._ TOG 2008.
 
-[**Toolglass and Magic Lenses: the See-through Interface.**](https://dl.acm.org/doi/pdf/10.1145/1360612.1360692) _McCann et al._ SIGGRAPH 1993.
+[**Toolglass and Magic Lenses: the See-through Interface.**](https://dl.acm.org/doi/10.1145/166117.166126) _McCann et al._ SIGGRAPH 1993.
 
+[**Tree Visualization with Tree-Maps: 2-d Space-Filling Approach.**](https://dl.acm.org/doi/pdf/10.1145/102377.115768) _Shneiderman et al._ TOG 1992.
 
 
 
