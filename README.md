@@ -1,3 +1,5 @@
+[**Hybrid Tours: A Clip-based System for Authoring Long-take Touring Shots.**](https://www.cs.cornell.edu/abe/projects/hybridtours/Hybrid_Tours_Compressed.pdf) _Liu et al._ TOG 2025.
+
 [**DesignManager: An Agent-Powered Copilot for Designers to Integrate AI Design Tools into Creative Workflows.**](https://dl.acm.org/doi/pdf/10.1145/3730919) _You et al._ TOG 2025.
 
 [**VR-Doh: Hands-on 3D Modeling in Virtual Reality.**](https://dl.acm.org/doi/10.1145/3731154) _Luo et al._ TOG 2025.
@@ -79,6 +81,7 @@
 [**Toolglass and Magic Lenses: the See-through Interface.**](https://dl.acm.org/doi/10.1145/166117.166126) _McCann et al._ SIGGRAPH 1993.
 
 [**Tree Visualization with Tree-Maps: 2-d Space-Filling Approach.**](https://dl.acm.org/doi/pdf/10.1145/102377.115768) _Shneiderman et al._ TOG 1992.
+
 
 
 
