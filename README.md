@@ -42,6 +42,8 @@
 
 [**Toward Optimized VR/AR Ergonomics: Modeling and Predicting User Neck Muscle Contraction.**](https://dl.acm.org/doi/pdf/10.1145/3588432.3591495) _Zhang et al._ SIGGRAPH 2023.
 
+[**DARAM: Dynamic Avatar-Human Motion Remapping Technique for Realistic Virtual Stair Ascending Motions**](https://dl.acm.org/doi/10.1145/3588432.3591527)  _Lim et al._ SIGGRAPH 2023.
+
 [**Hierarchical Layout Blending with Recursive Optimal Correspondence.**](https://dl.acm.org/doi/pdf/10.1145/3550454.3555446) _Xu et al._ TOG 2022.
 
 [**Interactive Augmented Reality Storytelling Guided by Scene Semantics.**](https://dl.acm.org/doi/pdf/10.1145/3528223.3530061) _Li et al._ TOG 2022.
@@ -83,6 +85,7 @@
 [**Toolglass and Magic Lenses: the See-through Interface.**](https://dl.acm.org/doi/10.1145/166117.166126) _McCann et al._ SIGGRAPH 1993.
 
 [**Tree Visualization with Tree-Maps: 2-d Space-Filling Approach.**](https://dl.acm.org/doi/pdf/10.1145/102377.115768) _Shneiderman et al._ TOG 1992.
+
 
 
 
