@@ -72,6 +72,8 @@
 
 [**Decomposing Images into Layers via RGB-Space Geometry**](https://dl.acm.org/doi/pdf/10.1145/3072959.2988229) _Tan et al._ TOG 2016.
 
+[**Mapping Virtual and Physical Reality**](https://dl.acm.org/doi/pdf/10.1145/2897824.2925883) _Sun et al._ TOG 2016.
+
 [**Data-Driven Color Manifolds.**](https://dl.acm.org/doi/pdf/10.1145/2699645) _Nguyen et al._ TOG 2015.
 
 [**Palette-based Photo Recoloring.**](https://dl.acm.org/doi/pdf/10.1145/2766978) _Chang et al._ TOG 2015.
@@ -87,6 +89,7 @@
 [**Toolglass and Magic Lenses: the See-through Interface.**](https://dl.acm.org/doi/10.1145/166117.166126) _McCann et al._ SIGGRAPH 1993.
 
 [**Tree Visualization with Tree-Maps: 2-d Space-Filling Approach.**](https://dl.acm.org/doi/pdf/10.1145/102377.115768) _Shneiderman et al._ TOG 1992.
+
 
 
 
