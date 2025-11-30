@@ -64,6 +64,8 @@
 
 [**Reducing Simulator Sickness with Perceptual Camera Control.**](https://dl.acm.org/doi/10.1145/3355089.3356490) _Hu et al._ SIGGRAPH ASIA 2019.
 
+[**Towards Virtual Reality Infinite Walking: Dynamic Saccadic Redirection**](https://dl.acm.org/doi/pdf/10.1145/3197517.3201294) _Sun et al._ TOG 2018.
+
 [**Autocomplete 3D Sculpting.**](https://dl.acm.org/doi/10.1145/3197517.3201297) _Peng et al._ TOG 2018.
 
 [**Playful Palette: An Interactive Parametric Color Mixer for Artists.**](https://dl.acm.org/doi/10.1145/3072959.3073690) _Shugrina et al._ TOG 2017.
@@ -85,6 +87,7 @@
 [**Toolglass and Magic Lenses: the See-through Interface.**](https://dl.acm.org/doi/10.1145/166117.166126) _McCann et al._ SIGGRAPH 1993.
 
 [**Tree Visualization with Tree-Maps: 2-d Space-Filling Approach.**](https://dl.acm.org/doi/pdf/10.1145/102377.115768) _Shneiderman et al._ TOG 1992.
+
 
 
 
